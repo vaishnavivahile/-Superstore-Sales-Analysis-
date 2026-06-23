@@ -26,7 +26,7 @@ using Python and Power BI.
 ![Sales Overview](Screenshots/%20Page1.png)
 
 ### Profit Analysis
-![Profit Analysis](Screenshots/%20Page2.png)
+![Profit Analysis](Screenshots/Page2.png)
 
 ### Product Deep Dive
 ![Product Deep Dive](Screenshots/%20Page3.png)
