@@ -23,10 +23,10 @@ using Python and Power BI.
 ## Dashboard Preview
 
 ### Sales Overview
-![Sales Overview](Screenshots/Page%201.png)
+![Sales Overview](Screenshots/Page1.png)
 
 ### Profit Analysis
-![Profit Analysis](Screenshots/Page%202.png)
+![Profit Analysis](Screenshots/Page2.png)
 
 ### Product Deep Dive
-![Product Deep Dive](Screenshots/Page%203.png)
+![Product Deep Dive](Screenshots/Page3.png)
