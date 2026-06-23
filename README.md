@@ -1,7 +1,7 @@
 # Superstore Sales Analysis
 
 ## Overview
-An end-to-end Data Analytics project analyzing US Superstore Sales data 
+An end-to-end Data Analytics project analyzing US Superstore Sales data
 using Python and Power BI.
 
 ## Tools Used
