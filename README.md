@@ -21,11 +21,12 @@ using Python and Power BI.
 - `Screenshots/` — Report screenshots
 
 ## Dashboard Preview
+
 ### Sales Overview
-![Sales Overview](Page1.png)
+![Sales Overview](Screenshots/Page%201.png)
 
 ### Profit Analysis
-![Profit Analysis](Page2.png)
+![Profit Analysis](Screenshots/Page%202.png)
 
 ### Product Deep Dive
-![Product Deep Dive](Page3.png)
+![Product Deep Dive](Screenshots/Page%203.png)
